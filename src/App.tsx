@@ -3,8 +3,6 @@ import {
   ArrowRight,
   Download,
   Sparkles,
-  Code,
-  Database,
   Mail,
   Check,
   GraduationCap,
@@ -15,11 +13,10 @@ import {
   Star,
   Loader2,
 } from "lucide-react";
-import { useRef, useState, FormEvent } from "react";
+import { useRef, useState, type FormEvent } from "react";
 import emailjs from "@emailjs/browser";
 import { WordsPullUp } from "./components/WordsPullUp";
 import { WordsPullUpMultiStyle } from "./components/WordsPullUpMultiStyle";
-import { ScrollRevealText } from "./components/ScrollRevealText";
 import DomeGallery from "./components/DomeGallery";
 
 function Navbar() {
