@@ -450,7 +450,7 @@ function ProjectsSection() {
           >
             <div className="w-full h-[180px] shrink-0 overflow-hidden">
               <img
-                src="public/image-2.png"
+                src="/image-2.png"
                 alt="AI Study Partner Workspace"
                 className="w-full h-full object-cover object-left-top transition-transform duration-500 group-hover:scale-105"
               />
@@ -484,7 +484,7 @@ function ProjectsSection() {
           >
             <div className="w-full h-[180px] shrink-0 overflow-hidden">
               <img
-                src="public/image-3.png"
+                src="/image-3.png"
                 alt="Sentiment Analysis"
                 className="w-full h-full object-cover object-left-top transition-transform duration-500 group-hover:scale-105"
               />
@@ -518,7 +518,7 @@ function ProjectsSection() {
           >
             <div className="w-full h-[180px] shrink-0 overflow-hidden">
               <img
-                src="public/image-4.png"
+                src="/image-4.png"
                 alt="TalkToDB"
                 className="w-full h-full object-cover object-left-top transition-transform duration-500 group-hover:scale-105"
               />
